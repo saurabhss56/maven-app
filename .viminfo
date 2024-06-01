@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1717153314,,"wq"
+|2,0,1717226644,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -55,22 +55,42 @@ $
 |3,0,9,1,1,0,1717137696,"		</dependency>"
 
 # File marks:
-'0  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
-|4,48,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+'0  1  2  ~/new.txt
+|4,48,1,2,1717226644,"~/new.txt"
 '1  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
-|4,49,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
-'2  8  0  /var/lib/jenkins/workspace/test
-|4,50,8,0,1717134411,"/var/lib/jenkins/workspace/test"
+|4,49,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+'2  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,50,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+'3  8  0  /var/lib/jenkins/workspace/test
+|4,51,8,0,1717134411,"/var/lib/jenkins/workspace/test"
 
 # Jumplist (newest first):
+-'  1  2  ~/new.txt
+|4,39,1,2,1717226644,"~/new.txt"
 -'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
 |4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
 -'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
 |4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
 -'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
 |4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
 -'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
 |4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  8  0  /var/lib/jenkins/workspace/test
+|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
+-'  8  0  /var/lib/jenkins/workspace/test
+|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
+-'  8  0  /var/lib/jenkins/workspace/test
+|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
+-'  8  0  /var/lib/jenkins/workspace/test
+|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
 -'  8  0  /var/lib/jenkins/workspace/test
 |4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
 -'  8  0  /var/lib/jenkins/workspace/test
@@ -81,6 +101,13 @@ $
 |4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
 
 # History of marks within files (newest to oldest):
+
+> ~/new.txt
+	*	1717226643	0
+	"	1	2
+	^	1	3
+	.	1	2
+	+	1	2
 
 > ~/JAVA-MAVEN-WEB-APP/pom.xml
 	*	1717153313	0
