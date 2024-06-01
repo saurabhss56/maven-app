@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1717228950,,"wq"
+|2,0,1717229521,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -55,20 +55,26 @@ $
 |3,0,9,1,1,0,1717137696,"		</dependency>"
 
 # File marks:
-'0  1  4  ~/hello.txt
-|4,48,1,4,1717228950,"~/hello.txt"
-'1  1  0  ~/hello.txt
-|4,49,1,0,1717228659,"~/hello.txt"
-'2  1  2  ~/new.txt
-|4,50,1,2,1717226644,"~/new.txt"
-'3  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
-|4,51,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
-'4  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
-|4,52,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
-'5  8  0  /var/lib/jenkins/workspace/test
-|4,53,8,0,1717134411,"/var/lib/jenkins/workspace/test"
+'0  1  9  ~/hello.txt
+|4,48,1,9,1717229521,"~/hello.txt"
+'1  1  4  ~/hello.txt
+|4,49,1,4,1717228950,"~/hello.txt"
+'2  1  0  ~/hello.txt
+|4,50,1,0,1717228659,"~/hello.txt"
+'3  1  0  ~/hello.txt
+|4,51,1,0,1717228659,"~/hello.txt"
+'4  1  2  ~/new.txt
+|4,52,1,2,1717226644,"~/new.txt"
+'5  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,53,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+'6  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,54,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+'7  8  0  /var/lib/jenkins/workspace/test
+|4,55,8,0,1717134411,"/var/lib/jenkins/workspace/test"
 
 # Jumplist (newest first):
+-'  1  9  ~/hello.txt
+|4,39,1,9,1717229521,"~/hello.txt"
 -'  1  4  ~/hello.txt
 |4,39,1,4,1717228950,"~/hello.txt"
 -'  1  0  ~/hello.txt
@@ -81,6 +87,14 @@ $
 |4,39,1,2,1717226644,"~/new.txt"
 -'  1  2  ~/new.txt
 |4,39,1,2,1717226644,"~/new.txt"
+-'  1  2  ~/new.txt
+|4,39,1,2,1717226644,"~/new.txt"
+-'  1  2  ~/new.txt
+|4,39,1,2,1717226644,"~/new.txt"
+-'  1  2  ~/new.txt
+|4,39,1,2,1717226644,"~/new.txt"
+-'  1  2  ~/new.txt
+|4,39,1,2,1717226644,"~/new.txt"
 -'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
 |4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
 -'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
@@ -97,6 +111,38 @@ $
 |4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
 -'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
 |4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717153314,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
 -'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
 |4,39,56,0,1717137713,"~/JAVA-MAVEN-WEB-APP/pom.xml"
 -'  56  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
@@ -145,20 +191,38 @@ $
 |4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
 -'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
 |4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
--'  8  0  /var/lib/jenkins/workspace/test
-|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
--'  8  0  /var/lib/jenkins/workspace/test
-|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
--'  8  0  /var/lib/jenkins/workspace/test
-|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
--'  8  0  /var/lib/jenkins/workspace/test
-|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
--'  8  0  /var/lib/jenkins/workspace/test
-|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
--'  8  0  /var/lib/jenkins/workspace/test
-|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
--'  8  0  /var/lib/jenkins/workspace/test
-|4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
+-'  1  0  ~/JAVA-MAVEN-WEB-APP/pom.xml
+|4,39,1,0,1717137582,"~/JAVA-MAVEN-WEB-APP/pom.xml"
 -'  8  0  /var/lib/jenkins/workspace/test
 |4,39,8,0,1717134411,"/var/lib/jenkins/workspace/test"
 -'  8  0  /var/lib/jenkins/workspace/test
@@ -213,11 +277,11 @@ $
 # History of marks within files (newest to oldest):
 
 > ~/hello.txt
-	*	1717228949	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
+	*	1717229519	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
 
 > ~/new.txt
 	*	1717226643	0
